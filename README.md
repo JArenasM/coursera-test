@@ -1,2 +1,2 @@
 # coursera-test
-Cuerso de diseño web de coursera
+Curso de diseño web de coursera
